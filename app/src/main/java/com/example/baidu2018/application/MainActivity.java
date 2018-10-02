@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         tv_client_id.setText(clientId);
         tv_word.setText(word);
         Toast.makeText(this,"哈哈哈哈哈哈哈",Toast.LENGTH_SHORT).show();
+        int a = 12;
     }
 
     public String printString(String content){
