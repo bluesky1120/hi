@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         String word = BuildConfig.WORD;
         tv_client_id.setText(clientId);
         tv_word.setText(word);
-        Toast.makeText(this,"哈哈哈哈qqdd哈1",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"哈哈哈哈qqdd哈1232323",Toast.LENGTH_SHORT).show();
     }
 
     public String printString(String content){
