@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         tv_client_id.setText(clientId);
         tv_word.setText(word);
         Toast.makeText(this,"哈哈哈哈哈哈哈",Toast.LENGTH_SHORT).show();
-        Toast.makeText(this,"啦啦啦啦啦啦啦啦啦啦啦啦",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"啦啦啦啦啦啦啦啦啦啦啦啦a",Toast.LENGTH_SHORT).show();
     }
 
     public String printString(String content){
